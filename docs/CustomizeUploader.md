@@ -1,6 +1,6 @@
 # Using Kintone Customize Uploader
 
-## Overview <!-- omit in toc --><!-- markdownlint-disable MD007 -->
+## Overview <!-- omit in toc -->
 * [What is @kintone/customize-uploader ?](#what-is-kintonecustomize-uploader-)
 * [Setting Up for @kintone/customize-uploader](#setting-up-for-kintonecustomize-uploader)
   * [Part A: Update `customize-manifest.json` with your App ID](#part-a-update-customize-manifestjson-with-your-app-id)
@@ -12,14 +12,12 @@
     * [For Windows/ PowerShell](#for-windows-powershell)
     * [For Mac/ Terminal](#for-mac-terminal)
 
-<!-- markdownlint-enable MD007 -->
-
 ## What is @kintone/customize-uploader ?
 
 The Kintone Customize Uploader is a command-line tool for uploading JavaScript and CSS files to Kintone. It allows the user to automatically upload JS and CSS files to a Kintone App when a change is made in the file.
 
 The tool is published on npm and is available for Windows, macOS, and Linux.
-  * ⚠️ Node.js version 6 or later is needed to use this tool.
+* ⚠️ Node.js version 6 or later is needed to use this tool.
 
 For more information on the Kintone Customize Uploader tool, refer to the [Introduction to customize-uploader](https://developer.kintone.io/hc/en-us/articles/360017405154) article.
 
@@ -84,7 +82,7 @@ VIEW_ID=1234567
 ```
 
 ⚠️ Caution:
-  * Make sure to keep the `.env.example` file since it is used by env-cmd to verify the environmental variable configuration.
+* Make sure to keep the `.env.example` file since it is used by env-cmd to verify the environmental variable configuration.
 
 ## Appendix: Alternative Login Methods
 
@@ -104,9 +102,9 @@ Login dialog:
 ```
 
 Example:  
-  * ? Input your kintone's base URL (<https://example.cybozu.com>): `https://cafe.kintone.com`
-  * ? Input your username: `Administrator`
-  * ? Input your password: [input is hidden] `KintoneIsAmazing!`
+* ? Input your kintone's base URL (<https://example.cybozu.com>): `https://cafe.kintone.com`
+* ? Input your username: `Administrator`
+* ? Input your password: [input is hidden] `KintoneIsAmazing!`
 
 Success Message:  
 *If you see the following message, you logged in successfully!*

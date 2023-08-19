@@ -2,12 +2,12 @@
 
 ## Outline <!-- omit in toc -->
 * [Workshop Sections](#workshop-sections)
-  * [1) Download the code \& install dependencies](#1-download-the-code--install-dependencies)
-  * [2) Kintone Setup](#2-kintone-setup)
-  * [3) Project Setup](#3-project-setup)
-  * [4) Code Overview \& Complete the Code](#4-code-overview--complete-the-code)
-  * [5) Build \& Upload to Kintone](#5-build--upload-to-kintone)
-  * [6) Next Step](#6-next-step)
+  * [Step 1 - Download the code \& install dependencies](#step-1---download-the-code--install-dependencies)
+  * [Step 2 - Kintone Setup](#step-2---kintone-setup)
+  * [Step 3 - Project Setup](#step-3---project-setup)
+  * [Step 4 - Code Overview \& Complete the Code](#step-4---code-overview--complete-the-code)
+  * [Step 5 - Build \& Upload to Kintone](#step-5---build--upload-to-kintone)
+  * [Step 6 - Next Step](#step-6---next-step)
 * [Complete the Code](#complete-the-code)
   * [src/index.js](#srcindexjs)
   * [src/components/SearchBar.js](#srccomponentssearchbarjs)
@@ -17,12 +17,12 @@
 
 ## Workshop Sections
 
-### 1) Download the code & install dependencies
+### Step 1 - Download the code & install dependencies
 * [ ] `git clone https://github.com/kintone-workshops/kintone-react-search-bar`
 * [ ] Inside Kintone_React_Search_Bar, run `npm install`
 * [ ] `npm install -g @kintone/customize-uploader`
 
-### 2) Kintone Setup
+### Step 2 - Kintone Setup
 * [ ] Log into your Kintone Subdomain
 * [ ] Create a Kintone App
   * [ ] Add text fields for `title` and `author`
@@ -30,7 +30,7 @@
   * [ ] Get the View ID
 * [ ] Input sample data
 
-### 3) Project Setup
+### Step 3 - Project Setup
 * [ ] Create `.env` using `.env.example` as a template
 * [ ] Fill out the `.env` file
   * [ ] KINTONE_BASE_URL is set as "https://example.kintone.com"
@@ -38,18 +38,18 @@
   * [ ] Add the View ID from earlier to VIEW_ID
 * [ ] Update `customize-manifest.json` with App ID
 
-### 4) Code Overview & Complete the Code
+### Step 4 - Code Overview & Complete the Code
 * [ ] src/index.js
 * [ ] src/components/SearchBar.js
 * [ ] src/components/ResultList.js
 
 See [Complete the Code](#complete-the-code) section for details
 
-### 5) Build & Upload to Kintone
 * [ ] Verify [3) Project Setup](#3-project-setup) steps are completed
+### Step 5 - Build & Upload to Kintone
 * [ ] Run `npm run start`
 
-### 6) Next Step
+### Step 6 - Next Step
 
 Some ideas to further build out the project:
 * Production build -> Package.json
