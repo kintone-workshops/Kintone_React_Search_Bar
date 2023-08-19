@@ -56,7 +56,7 @@ npm install -g @kintone/customize-uploader
 * Check the versions inside the `React_Workshop_by_Kintone` folder:
   * `node -v`
   * `npm -v`
-* Not the correct versions or Confused? 🤔 → Check out the [Guide on Installing Node.js & npm](docs/Install_NodeJS_npm.md) Doc
+* Not the correct versions or confused? 🤔 → Check out the [Guide on Installing Node.js & npm {macOS & Windows}](https://dev.to/kintonedevprogram/guide-on-installing-nodejs-npm-macos-windows-16ii).
 
 ⚡ Note: Please ignore the package deprecation warnings ⚡
 
@@ -295,13 +295,12 @@ Your Kintone **Subdomain** determines the URL used to access your Kintone accoun
 
 ### Files
 
-| Files                                               | Purpose                                                                       |
-| --------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Install_NodeJS_npm.md](docs/Install_NodeJS_npm.md) | Guide on Installing Node.js & npm                                             |
-| [Workshop.md](docs/Workshop.md)                     | Workshop Overview & Notes                                                     |
-| [References.md](docs/References.md)                 | List of all the articles referred to when building this project               |
-| [Manga_Data.csv](docs/Manga_Data.csv)               | Manga title and author data that can be uploaded to your Kintone Manga DB App |
-| [CustomizeUploader.md](docs/CustomizeUploader.md)   | Guide on configuring the @kintone/customize-uploader                          |
+| Files                                             | Purpose                                                                       |
+| ------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [Workshop.md](docs/Workshop.md)                   | Workshop Overview & Notes                                                     |
+| [References.md](docs/References.md)               | List of all the articles referred to when building this project               |
+| [Manga_Data.csv](docs/Manga_Data.csv)             | Manga title and author data that can be uploaded to your Kintone Manga DB App |
+| [CustomizeUploader.md](docs/CustomizeUploader.md) | Guide on configuring the @kintone/customize-uploader                          |
 
 ### Branches
 
