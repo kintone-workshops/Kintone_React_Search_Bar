@@ -33,14 +33,14 @@ Check out [meetup.com/Kintone-Developers](https://www.meetup.com/Kintone-Develop
 
 ## Get Started
 
-First, let's download the [ahandsel/Kintone_React_Search_Bar](https://github.com/ahandsel/Kintone_React_Search_Bar) Repo and go inside the folder.
+First, let's download the [kintone-workshops/kintone-react-search-bar](https://github.com/kintone-workshops/kintone-react-search-bar) Repo and go inside the folder.
 
 Once you are inside the folder, let's install the dependencies!
 
 ```shell
 cd Downloads
 
-git clone https://github.com/ahandsel/Kintone_React_Search_Bar
+git clone https://github.com/kintone-workshops/kintone-react-search-bar
 
 cd Kintone_React_Search_Bar
 

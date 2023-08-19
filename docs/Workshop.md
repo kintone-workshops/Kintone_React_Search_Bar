@@ -18,7 +18,7 @@
 ## Workshop Sections
 
 ### 1) Download the code & install dependencies
-* [ ] `git clone https://github.com/ahandsel/Kintone_React_Search_Bar`
+* [ ] `git clone https://github.com/kintone-workshops/kintone-react-search-bar`
 * [ ] Inside Kintone_React_Search_Bar, run `npm install`
 * [ ] `npm install -g @kintone/customize-uploader`
 
